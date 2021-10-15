@@ -5,5 +5,5 @@
 
 
 
- Para saber mas de mi (https://juanperezdev.netlify.app/)  
+### Know More About Me (https://juanperezdev.netlify.app/)  
 
