@@ -5,5 +5,5 @@
 
 
 
-### Know More About Me (https://juanperezdev.netlify.app/)  
+### Know More About Me (https://jeralldev.netlify.app/)  
 
